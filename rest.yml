@@ -1,0 +1,22 @@
+name: C:\Users\kkhade\Anaconda2\envs\restFlask
+dependencies:
+- pip=9.0.1=py34_1
+- python=3.4.5=0
+- setuptools=27.2.0=py34_1
+- vc=10=0
+- vs2010_runtime=10.00.40219.1=2
+- wheel=0.29.0=py34_0
+- pip:
+  - aniso8601==3.0.2
+  - click==7.0
+  - flask==1.0.2
+  - flask-jsonpify==1.5.0
+  - flask-restful==0.3.6
+  - flask-sqlalchemy==2.3.2
+  - itsdangerous==0.24
+  - jinja2==2.10
+  - markupsafe==1.0
+  - pytz==2018.5
+  - six==1.11.0
+  - sqlalchemy==1.2.12
+  - werkzeug==0.14.1
